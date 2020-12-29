@@ -7,13 +7,13 @@ A friendship graph is an undirected graph with no self loops or multiple edges. 
 Here is a sample friendship graph:
 
 
-  (Sam,rutgers) --- (jane,rutgers) ----- (bob,rutgers)      (sergei,rutgers)
-                        |                   |                   |
-                        |                   |                   |
+    (Sam,rutgers) --- (jane,rutgers) ----- (bob,rutgers)      (sergei,rutgers)
+                          |                   |                   |
+                          |                   |                   |
                   (kaitlin,rutgers)      (samir) ----- (aparna,rutgers)
                            |                                  |
                            |                                  |
-  (ming,penn state) --- (nick,penn state) ------- (ricardo,penn state)
+    (ming,penn state) --- (nick,penn state) ------- (ricardo,penn state)
                               |
                               |
                         (heather,penn state)
