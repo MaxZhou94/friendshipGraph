@@ -16,7 +16,7 @@ public class Tester
 {
 	public static void main (String[] args) throws IOException
 	{
-		File f = new File("yeet.txt");
+		File f = new File("sample.txt");
 		Scanner sc = new Scanner(f);
 		Graph g = new Graph(sc);
 		
